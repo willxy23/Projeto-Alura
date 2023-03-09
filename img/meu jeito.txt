@@ -1,0 +1,38 @@
+.lista__item{
+    font-size: 32px;
+    color: var(--branco_principal)
+}
+
+.rodape{
+    margin-top: 10em;
+    text-decoration: none;
+    align-items: center;
+    text-align: center;
+    
+    
+}
+
+.rodape__lista{
+    text-decoration: none;
+    align-items: center;
+    display: flex;   
+    list-style-type: none;
+    margin: 2em 2em 2em 2em;
+    font-size: 16px;
+}
+
+.lista__link a{
+    text-align: center;
+    text-decoration: none;
+    margin-right: 1.5em;
+    color: var(--branco_principal);
+    
+    
+}
+
+.rodape__texto{
+    font-size: 14px;
+    color: var(--cinza_secundario);
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
